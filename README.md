@@ -1,3 +1,5 @@
+![HyperAgents](hyperagents.jpg)
+
 # HyperAgent Harness
 
 A simplified implementation of the HyperAgent self-improvement loop, demonstrating how AI agents evolve their own harness components through metacognitive self-modification. Powered by **NVIDIA Nemotron Super 49B**.
