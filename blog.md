@@ -1,3 +1,6 @@
+![HyperAgents](hyperagents.jpg)
+
+
 # HyperAgents by Meta
 
 ## When Agents Engineer Their Own Harness
